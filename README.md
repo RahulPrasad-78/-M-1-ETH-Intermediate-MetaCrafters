@@ -45,9 +45,9 @@ contract ErrorHandling {
     function test3() view public {
         if (a + b > 0) {
             revert("a + b is Greater than 0");
-        }
+           }
+       }
     }
-}
 
 
 ## Function Usage
