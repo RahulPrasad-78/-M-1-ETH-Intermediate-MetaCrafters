@@ -62,9 +62,9 @@ The test3 function checks if the sum of a and b is greater than 0 using an if st
 
 ### Parameters:
 
-owner: The address of the contract deployer.
-a: A uint variable initialized to 0.
-b: A uint variable initialized to 10.
+-- owner: The address of the contract deployer.
+-- a: A uint variable initialized to 0.
+-- b: A uint variable initialized to 10.
 
 ## Help
 
